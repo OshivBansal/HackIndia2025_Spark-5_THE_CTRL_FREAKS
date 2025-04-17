@@ -52,7 +52,7 @@ function Navbar() {
                     symbol: "ETH",
                     decimals: 18,
                   },
-                  rpcUrls: ["https://goerli.infura.io/v3/"],
+                  rpcUrls: ["https://goerli.infura.io/v3/4c305b211d02419daf9e6111514b4cdd"],
                   blockExplorerUrls: ["https://goerli.etherscan.io"],
                 },
               ],
